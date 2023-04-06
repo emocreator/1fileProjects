@@ -10,4 +10,17 @@ In this repository, I've gathered a collection of small yet cute projects writte
 
 <a name="python"></a>
 ## Python
-### 1. [Donut.py](https://github.com/emocreator/1fileProjects/blob/main/donut.py)
+### 1. [Donut.py](https://github.com/emocreator/1fileProjects/blob/main/Donut/donut.py)
+
+<a name="c++"></a>
+## C++
+### 1. To be updated in the near future
+
+<a name="r"></a>
+## R
+### 1. To be updated in the near future
+
+<a name="Rust"></a>
+## Rust
+### 1. To be updated in the near future
+
