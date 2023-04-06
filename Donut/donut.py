@@ -99,7 +99,7 @@ def render(A=0, B=0):
             print(col, end='')
         print('')
 
-if _name_ == '__main__':
+if __name__ == '__main__':
 
     A = 0
     B = 0
