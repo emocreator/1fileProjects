@@ -11,7 +11,11 @@ In this repository, I've gathered a collection of small yet cute projects writte
 <a name="python"></a>
 ## Python
 ### 1. [Donut.py](https://github.com/emocreator/1fileProjects/blob/main/Donut/donut.py)
-Output:
+Output in terminal:
+
+```python
+py donut.py
+```
 
 ![1fd](https://user-images.githubusercontent.com/58938156/230512554-a8f97712-5cb4-4114-8cac-ad5d04fb5f0a.gif)
 
