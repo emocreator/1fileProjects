@@ -23,7 +23,7 @@ Inspiration: Document from actual creator -> https://www.a1k0n.net/2011/07/20/do
 
 <a name="c++"></a>
 ## C++
-### 1. [Sudoku.cpp]()
+### 1. [Sudoku.cpp](https://github.com/emocreator/1fileProjects/blob/main/SudokuSolver/Sudoku.cpp)
 Sudoku Solver Using Backtracking
 
 ```
