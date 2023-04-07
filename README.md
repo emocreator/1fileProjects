@@ -5,8 +5,9 @@ In this repository, I've gathered a collection of small yet cute projects writte
 
 1. [Python](#python)
 2. [C++](#c++)
-3. [R](#r)
+3. [C](#c)
 4. [Rust](#rust)
+5. [R](#r)
 
 <a name="python"></a>
 ## Python
@@ -46,11 +47,16 @@ Continue steps 2-3 until the board is filled and the puzzle is solved, or until 
 If the puzzle is not solved after a certain number of iterations, reset the board to its initial state and start over.
 ```
 
-<a name="r"></a>
-## R
-### 1. To be updated in the near future
 
-<a name="Rust"></a>
+<a name="rust"></a>
 ## Rust
 ### 1. To be updated in the near future
 
+<a name="c"></a>
+## C
+### 1. To be updated in the near future
+
+
+<a name="r"></a>
+## R
+### 1. To be updated in the near future
