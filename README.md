@@ -1,5 +1,5 @@
-#Cute and Amusing 1 file Small Projects in Python, C++, R, and Rust
-In this repository, I've gathered a collection of small yet cute projects written in Python, C++, R, and Rust. These projects are not only fun to explore but also showcase the unique features and capabilities of each language. Let's dive in and see what each project has to offer!
+#Cute and Amusing 1 file Small Projects in Python, C++, C, Rust, and R
+In this repository, I've gathered a collection of small yet cute projects written in Python, C++, C, Rust, and R. These projects are not only fun to explore but also showcase the unique features and capabilities of each language. Let's dive in and see what each project has to offer!
 
 ## Table of Contents
 
