@@ -19,7 +19,7 @@ py donut.py
 
 ![1fd](https://user-images.githubusercontent.com/58938156/230512554-a8f97712-5cb4-4114-8cac-ad5d04fb5f0a.gif)
 
-Inspiration: Document from actual creator: https://www.a1k0n.net/2011/07/20/donut-math.html
+Inspiration: Document from actual creator -> https://www.a1k0n.net/2011/07/20/donut-math.html
 
 <a name="c++"></a>
 ## C++
